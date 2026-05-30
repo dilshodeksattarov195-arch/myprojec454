@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchdrocess",
+        "uuid": 2048902,
+        "checksum": "ita1po"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
